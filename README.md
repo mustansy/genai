@@ -27,7 +27,7 @@ The following diagram shows how these different capabilities work together to ge
 
 Generative AI workflow diagram
 
-<url:https://cloud.google.com/static/vertex-ai/generative-ai/docs/images/generative-ai-workflow.png>
+<img src="(https://cloud.google.com/static/vertex-ai/generative-ai/docs/images/generative-ai-workflow.png)" alt="Generative AI workflow diagram">
 
 Prompt
 Prompt	
