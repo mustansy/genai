@@ -8,24 +8,26 @@ Generative AI models are often called large language models (LLMs) because of th
 
 Google provides the Gemini family of generative AI models designed for multimodal use cases; capable of processing information from multiple modalities, including images, videos, and text.
 
-Content generation
+<h1>Content generation</h1>
 In order for generative AI models to generate content that's useful in real-world applications, they need to have the following capabilities:
 
-Learn how to perform new tasks:
+<h1>Learn how to perform new tasks:</h1>
 
 Generative AI models are designed to perform general tasks. If you want a model to perform tasks that are unique to your use case, then you need to be able to customize the model. On Vertex AI, you can customize your model through model tuning.
 
-Access external information:
+<h1>Access external information:</h1>
 
 Generative AI models are trained on vast amounts of data. However, in order for these models to be useful, they need to be able to access information outside of their training data. For example, if you want to create a customer service chatbot that's powered by a generative AI model, the model needs to have access to information about the products and services that you offer. In Vertex AI, you use the grounding and function calling features to help the model access external information.
 
-Block harmful content:
+<h1>Block harmful content:</h1>
 
 Generative AI models might generate output that you don't expect, including text that's offensive or insensitive. To maintain safety and prevent misuse, the models need safety filters to block prompts and responses that are determined to be potentially harmful. Vertex AI has built-in safety features that promote the responsible use of our generative AI services.
 
 The following diagram shows how these different capabilities work together to generate content that you want:
 
 Generative AI workflow diagram
+
+<url:https://cloud.google.com/static/vertex-ai/generative-ai/docs/images/generative-ai-workflow.png>
 
 Prompt
 Prompt	
