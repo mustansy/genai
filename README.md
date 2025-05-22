@@ -25,7 +25,7 @@ Generative AI models might generate output that you don't expect, including text
 
 The following diagram shows how these different capabilities work together to generate content that you want:
 
-Generative AI workflow diagram
+<h2>Generative AI workflow diagram</h2>  
 
 ![Image](https://github.com/user-attachments/assets/fa0a2785-57e9-4aa6-bd3f-306a8f884f1b)
 
