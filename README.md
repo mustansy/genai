@@ -43,7 +43,7 @@ Imagen API: Image generation, image editing, and visual captioning.
 MedLM: Medical question answering and summarization. (Private GA)
 The models differ in size, modality, and cost. You can explore Google models, as well as open models and models from Google partners, in Model Garden.
 
-Model customization
+<h3>Model customization</h3>
 Model customization	
 You can customize the default behavior of Google's foundation models so that they consistently generate the desired results without using complex prompts. This customization process is called model tuning. Model tuning helps you reduce the cost and latency of your requests by allowing you to simplify your prompts.
 
