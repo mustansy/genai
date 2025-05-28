@@ -34,7 +34,7 @@ The generative AI workflow typically starts with prompting. A prompt is a natura
 
 Creating a prompt to get the desired response from the model is a practice called prompt design. While prompt design is a process of trial and error, there are prompt design principles and strategies that you can use to nudge the model to behave in the desired way. Vertex AI Studio offers a prompt management tool to help you manage your prompts.
 
-Foundation models
+<h3>Foundation models</h3>
 Foundation models	
 Prompts are sent to a generative AI model for response generation. Vertex AI has a variety of generative AI foundation models that are accessible through a managed API, including the following:
 
