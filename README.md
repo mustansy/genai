@@ -60,7 +60,7 @@ Citation check
 Citation check	
 After the response is generated, Vertex AI checks whether citations need to be included with the response. If a significant amount of the text in the response comes from a particular source, that source is added to the citation metadata in the response.
 
-Responsible AI and safety
+<h2>Responsible AI and safety</h2>
 Responsible AI and safety	
 The last layer of checks that the prompt and response go through before being returned is the safety filters. Vertex AI checks both the prompt and response for how much the prompt or response belongs to a safety category. If the threshold is exceed for one or more categories, the response is blocked and Vertex AI returns a fallback response.
 
