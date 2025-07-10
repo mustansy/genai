@@ -15,6 +15,8 @@ In order for generative AI models to generate content that's useful in real-worl
 
 Generative AI models are designed to perform general tasks. If you want a model to perform tasks that are unique to your use case, then you need to be able to customize the model. On Vertex AI, you can customize your model through model tuning.
 
+
+
 <h1>Access external information:</h1>
 
 Generative AI models are trained on vast amounts of data. However, in order for these models to be useful, they need to be able to access information outside of their training data. For example, if you want to create a customer service chatbot that's powered by a generative AI model, the model needs to have access to information about the products and services that you offer. In Vertex AI, you use the grounding and function calling features to help the model access external information.
