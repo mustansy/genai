@@ -15,7 +15,7 @@ In order for generative AI models to generate content that's useful in real-worl
 
 Generative AI models are designed to perform general tasks. If you want a model to perform tasks that are unique to your use case, then you need to be able to customize the model. On Vertex AI, you can customize your model through model tuning.
 
-
+.  . .
 
 
 <h1>Access external information:</h1>
