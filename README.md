@@ -68,6 +68,8 @@ After the response is generated, Vertex AI checks whether citations need to be i
 <h3>Responsible AI and safety</h3>
 The last layer of checks that the prompt and response go through before being returned is the safety filters. Vertex AI checks both the prompt and response for how much the prompt or response belongs to a safety category. If the threshold is exceed for one or more categories, the response is blocked and Vertex AI returns a fallback response.
 
+
+
 Response
 Response	
 If the prompt and response passes the safety filter checks, the response is returned. Typically, the response is returned all at once. However, with Vertex AI you can also receive responses progressively as it generates by enabling streaming.
