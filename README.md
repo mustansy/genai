@@ -1,4 +1,4 @@
-# genai
+# Gen AI
 <h1>Generative AI beginner's guide 
 </h1>
 This beginner's guide introduces you to the core technologies of generative AI and explains how they fit together to power chatbots and applications. Generative AI (also known as genAI or gen AI) is a field of machine learning (ML) that develops and uses ML models for generating new content.
