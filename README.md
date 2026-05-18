@@ -35,9 +35,6 @@ The following diagram shows how these different capabilities work together to ge
 
 
 
-
-
-
 . 
 <h2>Prompt</h2>  
 Prompt	
