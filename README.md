@@ -35,7 +35,6 @@ The following diagram shows how these different capabilities work together to ge
 
 
 
-. 
 <h2>Prompt</h2>  
 Prompt	
 The generative AI workflow typically starts with prompting. A prompt is a natural language request sent to a generative AI model to elicit a response back. Depending on the model, a prompt can contain text, images, videos, audio, documents, and other modalities or even multiple modalities (multimodal).
